@@ -1,5 +1,3 @@
-# Home Page
+# __Chloe Carol Ann Graphic 
 
-This is the home page
 
-__This is bold__
