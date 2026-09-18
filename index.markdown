@@ -29,8 +29,20 @@ _Humber Ploytechnic_ 2021-2023
 ## Work Experience I Definitely Have
 
 __Founder & CEO__
-Amazon, 1998-1999
+
+_Amazon_, 1998-1999
+
 - Built the business from the ground up with my own two hands
+- Got robbed by that guy Jeff Bezos; don't trust him
+
+
+__Big Red Button Pusher__
+
+_Disney_, 2020-2021
+
+- Pressed big red button
+- Basically made the whole business run smoothly
 
 ## Contact
 
+[Instagram](https://www.instagram.com/?hl=en "All my best works")
