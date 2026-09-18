@@ -1,4 +1,4 @@
 # Resume
 Chloe Smith-Dickieson
 
-This is a text project.
+This is a test project.
