@@ -21,11 +21,6 @@ __Protection, Security, and Investigations Dimploma__
 _Humber Ploytechnic_ 2021-2023
 
 
-## Cat image I found 
-
-![cat](photo-1529778873920-4da4926a72c2.avif)
-
-
 ## Work Experience I Definitely Have
 
 __Founder & CEO__
@@ -42,6 +37,12 @@ _Disney_, 2020-2021
 
 - Pressed big red button
 - Basically made the whole business run smoothly
+
+
+## Cat image I found 
+
+![cat](photo-1529778873920-4da4926a72c2.avif)
+
 
 ## Contact
 
