@@ -41,7 +41,7 @@ _Disney_, 2020-2021
 
 ## Cat image I found 
 
-![cat](photo-1529778873920-4da4926a72c2.avif)
+![cat](/photo-1529778873920-4da4926a72c2.avif)
 
 
 ## Contact
