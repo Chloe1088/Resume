@@ -39,6 +39,11 @@ _Disney_, 2020-2021
 - Basically made the whole business run smoothly
 
 
+# Projects I Definitely made 
+
+![Small painting I made]()
+
+
 ## Cat image I found 
 
 ![cat](/photo-1529778873920-4da4926a72c2.avif)
