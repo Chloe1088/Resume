@@ -41,7 +41,9 @@ _Disney_, 2020-2021
 
 # Projects I Definitely made 
 
-![Small painting I made]()
+[Small painting I made](Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
+
+
 
 
 ## Cat image I found 
