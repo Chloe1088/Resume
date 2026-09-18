@@ -2,4 +2,4 @@
 
 This is the home page
 
-***This is bold***
+__This is bold__
